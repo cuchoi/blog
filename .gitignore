@@ -6,3 +6,4 @@ build/
 config.py
 pages/all.bib
 .DS_Store
+.vscode
